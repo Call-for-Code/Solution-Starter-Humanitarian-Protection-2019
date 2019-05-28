@@ -1,2 +1,2 @@
 # solution-starter-humanitarian-protection
-Materials for the "Build Back Better" solution starter kit from team 3.
+Materials for the "Humanitarian Protection in Times of Disaster" solution starter kit from team 3.
