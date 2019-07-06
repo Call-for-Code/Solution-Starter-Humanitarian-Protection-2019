@@ -1,14 +1,6 @@
 # Solution Starter: Humanitarian Protection in Times of Disaster
 
-This solution starter was created by Team Three at the United Nations Human Rights Office in Geneva, Switzerland on June 3-4, 2019. It features contributions by technologists from Persistent Systems, Capgemini, Deutsche Telekom, The Linux Foundation, and IBM. 
-
-## What's the challenge?
-
-Enhance resiliency and integrate disaster risk reduction during the recovery, rehabilitation, and reconstruction phase. Consider how to use technology-driven solutions to take action in anticipation of events, strengthen key infrastructure including buildings, roads, and hospitals, and ensure capacities are in place for effective response and recovery at all levels in the future.
-
-## Why is this needed?
-
-Research shows when countries rebuild stronger, faster, and more inclusively after a natural disaster, the impact on individuals' livelihood and well-being can be reduced by more than 30 percent, cutting losses from $555B to $382B per year.  As climate change increases, countries will benefit from placing an even greater priority on more resilient, swift, and inclusive recovery and reconstruction processes. Building back better, stronger, and faster after a natural disaster is one of the best ways to reduce impact and end the cycle of poverty.
+This solution starter was created by Team Three at the United Nations Human Rights Office in Geneva, Switzerland on June 3-4, 2019. It features contributions by technologists from Persistent Systems, Capgemini, Deutsche Telekom, The Linux Foundation, and IBM.
 
 ## Overview
 
@@ -39,7 +31,7 @@ This solution assumes that the end user, in this case a vulnerable person who li
 
 ## Additional diagrams and documentation
 
-![Challenge 3 Architecture](/images/Challenge_3_Architecture.png?raw=true "Challenge 2 Architecture 1")
+![Challenge 3 Architecture](/images/Challenge_3_Architecture.png?raw=true "Challenge 3 Architecture")
 
 This solution starter idea can help to quickly prioritize help to those who need it most.
 
